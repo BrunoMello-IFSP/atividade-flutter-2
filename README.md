@@ -9,17 +9,6 @@
 
 ---
 
-## 🎯 Objetivos do Projeto
-
-- **Performance:**  
-  Usar `StatelessWidget` sempre que possível para uma renderização mais rápida.
-
-- **Ciclo de Vida Correto:**  
-  Evitar `StatefulWidget` onde não é necessário para reduzir complexidade.
-
----
-
-
 
 ## 🚀 Como Executar o Projeto
 
